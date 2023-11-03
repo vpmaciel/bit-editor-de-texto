@@ -369,7 +369,7 @@ public class EditorTextoJan extends JFrame {
 	private JTextArea texto;
 
 	public EditorTextoJan() {
-		super("ATHOS - EDITOR DE TEXTO");
+		super("BIT - EDITOR DE TEXTO");
 		setIconImage(Imagem.getLogoTipoImage());
 		initComponents();
 	}
